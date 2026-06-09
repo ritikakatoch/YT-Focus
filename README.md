@@ -2,7 +2,7 @@
 
 YT Focus is a minimalist, performant Chrome Extension designed to help users regain control of their YouTube experience. By selectively hiding distracting UI elements (like the home feed, shorts, comments, and recommendations), it transforms YouTube from an endless rabbit hole into a focused, intent-driven learning and viewing platform.
 
-![YT Focus Screenshot](./icons/icon128.png) <!-- Update this with an actual screenshot of your UI later -->
+<!-- Update this with an actual screenshot of your UI later -->
 
 ## 🚀 Features
 

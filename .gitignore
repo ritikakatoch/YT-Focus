@@ -1,0 +1,8 @@
+# Ignore zip archives
+*.zip
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Antigravity artifacts
+.antigravityignore
